@@ -1,0 +1,17 @@
+{
+    "name": "Surge.Editor",
+    "references": [
+        "GUID:fbe201c0b7745f64092e3320242b6a2b"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
