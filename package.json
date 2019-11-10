@@ -1,0 +1,19 @@
+{
+  "name": "pixelplacement.surge",
+  "displayName": "Surge",
+  "version": "1.0.40",
+  "unity": "2017.4",
+  "description": "A collection of free tools to help take your Unity development to another level so you can get things done faster. Surge is a collection of free tools that make development in Unity easier, more reliable and more powerful. Born from industry standard solutions and years of experience, Surge helps beginners and professional developers work faster and smarter to get things done the right way. It doesn’t matter if you are developing a AAA game, an enterprise business application or just trying out a new idea, Surge has a tool that will help you focus on the end goal rather than how to get there.",
+  "keywords": [
+    "unity",
+    "spline",
+    "tweening",
+    "framework",
+    "tools",
+    "state machine",
+    "spline"
+  ],
+  "author": {
+    "name": "Pixel Placement"
+  }
+}
